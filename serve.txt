@@ -1,0 +1,72 @@
+root@autodl-container-1hqv8n2433-7a8cfa49:~/autodl-tmp# python serve.py --mode cli
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+[Server] Restored shared weights: ['lm_head.weight']
+
+============================================================
+  Layers=12, Heads=12, KV Heads=4
+  Embed=768, BlockSize=1024
+  MoE: 3 experts, top-1, 1 shared
+  GradCheckpoint=False
+  Total Parameters: 284,047,104 (284.0M)
+  Active Parameters/token: ~170,800,896 (170.8M)
+============================================================
+
+[Server] Model loaded: 284,047,104 params (284.0M)
+
+[Server] CampGPT ready on cuda
+
+============================================================
+  CampGPT Student Handbook Assistant
+  Commands:
+    /clear   - Clear conversation history
+    /history - Show conversation history
+    /quit    - Exit
+============================================================
+
+You: who are you?
+
+Assistant: Yes,, the University, or, or attempted,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  (4.14s)
+
+You: who are you?
+
+Assistant: or,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, of of of of of of of of of of of of of of of of of of of of of of of of of of of,,, that you you you you you you you,,,, or or or or or or or or situation in that of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of less in authorized action investigation you you considered of of)) while of of that such but not enrolled during on on situation such such not during the.' completed completed if if you you cannot with, your of of of of of of of of of of of of
+  (3.91s)
+
+You: ok      
+
+Assistant: students students if, will, where your were that present, being scheduled scheduled reporting being comply 10 10; these for own- at at at at at at at at at,,,, too of have to even,,,, Code of of states states if that under all 5. E all order organization it when you, unless the University,, re is that found,,,, understand as the the.
+
+ states-and including A only) for, the the- when 5 the,,, the University is,,,,,,, the, full of of with with with record record with,,, involved with with,, being the, being share when the the ' University is even where, these,,,, strongly related the,, the of of with to Hearing,, the 10 10 investigation, with the degree hold, responsible that
+
+ risk using) made considered that then being, cases cases, 10, open is strongly, understand the 2 Officer being being considered considered at during the, being being,, not or that written written written being made seen,, full� other you if if at at is always generally of of such them the the degree hold, valid; stated,, provision considered authorized for, you, due choice
+  (3.90s)
+
+You: exit
+
+Assistant: ft).). As As 5.
+
+ arrangementsons,, will the the� will,, under of a authorized forations forations written that that the to to to to to to to to to to to to you6 if,,,,; of at,, University is is passed,, include that
+
+ It, under under order conduct; including ' () the.
+
+ational,—6666 Services ' fore; A any.
+
+’) clear must I, being the date record any any for full,,,, also,; history the University University with 5 the behavior if rather you in in made written written could will history, the behavior if of notice, even certain, a a a serious,,,, without, being, with with with of the Prob,, these are, it of the A the University University is still the students with clear clear, with when is emotional people the to the, possible scheduled further the behavior the fullons, when the, cases of states considered of is approved approved approved the that cases-.
+
+ must must must the programs::, of the the including including and the without,, the action the so so understand the without, still including and the if including of such the remain
+  (3.85s)
+
+You: quit
+
+Assistant: such-c if as,,,,,, but can can; a a good related is cases; then then then covered covered is written electronic wildlife, such such including with with 2 foringor,,: record’::�’, at at,; in to hand with using to the: ()) but if itself being justing the that, such that being being so after cases the, will will will as considered of passed,,; Center Center (36 E for for, remain being more one of types.
+
+ issue,, still to,, to a authorized by is isn��’, the, also based on would,,, if such,, generally no then never take sexual cases the behavior if such using the University is generally often will will will, such such will will should require general as respectful,—you such, using the;;: the at at at, not the, a serious a authorized student behavior is much,; then moved
+  (3.14s)
+
+You: /quit
+Goodbye!
+
+
+

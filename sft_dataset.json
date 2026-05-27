@@ -1,0 +1,2978 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the main purpose of the Student Code of Conduct at the University of Houston-Clear Lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main purpose of the Student Code of Conduct is to promote students' freedom, intellectual development, and personal responsibility while ensuring the opportunity to attain educational objectives, maintaining an intellectual and educational atmosphere, and protecting the health, safety, welfare, property, and human rights of all university community members."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student violates the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "All alleged violations of the Student Code of Conduct may result in referral to the Dean of Students Office for disciplinary action, which can include sanctions such as expulsion, suspension, disciplinary probation, reprimand, or warning."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Are students responsible for knowing the university's rules and regulations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, students are responsible for becoming familiar with all University of Houston-Clear Lake rules and regulations, even though the University makes every reasonable effort to make them available."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is 'educational discipline' according to the handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "Educational discipline refers to the University’s approach of educating the student through appropriate sanctioning when possible, but treating persistent rule violations as seriously as academic failure."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which office oversees the student conduct process at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Dean of Students Office is responsible for the student conduct process, with supervision by the Associate Dean of Students and Director of Student Housing under the direction of the Assistant Vice President/Dean of Students."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I break a rule in the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you violate the Student Code of Conduct, your case may be referred to the Dean of Students Office for disciplinary action. The University emphasizes educational discipline—meaning sanctions are designed to help you learn from the situation—but if you repeatedly or seriously violate rules, consequences could include warnings, probation, suspension, or even expulsion."
+      },
+      {
+        "role": "user",
+        "content": "Who handles these conduct cases at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Dean of Students Office is responsible for managing the student conduct process. Specifically, the Associate Dean of Students and Director of Student Housing oversees the implementation of conduct procedures under the direction of the Assistant Vice President/Dean of Students."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Am I responsible for knowing all the university rules even if no one told me about them?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. According to the Student Handbook, by enrolling at the University of Houston-Clear Lake, you accept responsibility for knowing and following all university policies, rules, and regulations. While the University makes every reasonable effort to make these rules available, it’s ultimately your responsibility to become familiar with them."
+      },
+      {
+        "role": "user",
+        "content": "So does that mean I can’t use 'I didn’t know' as an excuse if I get in trouble?"
+      },
+      {
+        "role": "assistant",
+        "content": "Correct. Not being aware of a rule is not considered a valid defense for violating the Student Code of Conduct. All students are held accountable for adhering to university policies, regardless of whether they were directly informed of them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. I saw something about the Student Code of Conduct in my orientation packet, but I’m not sure what it means for me day-to-day. What should I know?"
+      },
+      {
+        "role": "assistant",
+        "content": "As a new student at the University of Houston-Clear Lake, you’re expected to follow all university rules outlined in the Student Code of Conduct, as well as federal, state, and local laws. The Code supports your educational growth while ensuring a safe and respectful campus environment. It’s your responsibility to become familiar with these policies—even if you weren’t explicitly told about every rule. Violations can lead to disciplinary action, including warnings, probation, suspension, or even expulsion. If you’re ever unsure whether something might violate the Code, it’s best to ask the Dean of Students Office for guidance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice last week for something that happened at a campus event, and I’m really nervous. What happens next, and who handles this?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disciplinary matters at the University of Houston-Clear Lake are handled by the Dean of Students Office. Specifically, the Associate Dean of Students and Director of Student Housing oversees the conduct process under the direction of the Assistant Vice President/Dean of Students. You’ll likely be contacted to discuss the incident, and the university follows an educational discipline approach—meaning they aim to help you learn from the situation when possible. However, if you’ve repeatedly violated the Code or show unwillingness to comply, more serious consequences like suspension or expulsion could apply. It’s important to respond promptly and cooperate with the process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can the University discipline me for something I did off campus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the University can discipline you for off-campus conduct if it occurs in connection with a University-sponsored or affiliated activity (such as a field trip, retreat, or study abroad program), has a substantial connection to the University’s interests, poses a serious threat of harm to any member of the University community, or violates University policy regardless of location—even if you are also facing civil or criminal penalties for the same act."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I withdraw from school while a conduct case is pending?"
+      },
+      {
+        "role": "assistant",
+        "content": "Withdrawing from classes does not exempt you from University disciplinary action. You remain subject to the conduct process and potential sanctions even after withdrawal if a conduct matter was pending at the time."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can the University hold its own disciplinary proceedings if I’m also being prosecuted criminally for the same incident?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. The University may initiate, proceed with, or complete its own disciplinary proceedings independently of any criminal or civil case. These proceedings can occur before, during, or after criminal prosecution, and University decisions or sanctions will not be changed based on the outcome of criminal charges."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who handles cases involving sexual misconduct or discrimination at the University of Houston?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alleged violations of the University’s Sexual Misconduct Policy or Discrimination and Harassment Policy are exclusively handled by the Office of Title IX and Equal Opportunity Services (EOS), not through the general Student Code of Conduct process—except in specific circumstances outlined in the handbook, such as requests for interim suspension."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How do I appeal a sanction if I’m found responsible for violating the Sexual Misconduct Policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you are found in violation of the Sexual Misconduct Policy and wish to appeal the sanction(s) imposed by the Dean of Students Office, you must file your appeal according to the appeal procedures outlined in the Student Code of Conduct. The same applies to complainants who wish to appeal sanctions imposed on the responding student."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "If I get in trouble off-campus during spring break, can the university still discipline me?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the University of Houston may discipline you for off-campus conduct if it meets certain conditions. According to Section 1.2 of the Student Handbook, disciplinary action can apply if the incident occurs in connection with a University-sponsored or affiliated activity (like a study abroad program or field trip), has a substantial connection to the University’s interests, poses a threat of serious harm to someone in the University community, or violates a University policy that applies regardless of location."
+      },
+      {
+        "role": "user",
+        "content": "What if I’m not involved in any university activities during spring break—just hanging out with friends? Would they still get involved?"
+      },
+      {
+        "role": "assistant",
+        "content": "If your off-campus behavior during spring break isn’t connected to any University-sponsored activity and doesn’t pose a threat to the University community or violate a policy that applies universally (like sexual misconduct or harassment policies), then it’s less likely the University would take disciplinary action. However, if your actions have a 'substantial connection' to the University’s interests—such as impacting campus safety, reputation, or involving other students—the University could still assert jurisdiction under Section 1.2."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’ve been accused of sexual misconduct off-campus. Will this be handled under the regular Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. According to Section 1.4 of the Student Handbook, allegations of sexual misconduct—even if they occur off-campus—are exclusively handled by the Office of Title IX and Equal Opportunity Services (EOS), not through the standard Student Code of Conduct process. EOS will investigate and address the matter according to the University’s Sexual Misconduct Policy."
+      },
+      {
+        "role": "user",
+        "content": "Can I still appeal any sanctions if I’m found responsible under the Title IX process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. If you’re found in violation of the University’s Sexual Misconduct Policy and sanctions are imposed by the Dean of Students Office, you have the right to appeal those sanctions. Per Section 1.4, your appeal must follow the procedures outlined in the appeal section of the Student Code of Conduct. The same applies to the complainant if they wish to appeal the sanctions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. I got into an argument off-campus during a weekend party that wasn't affiliated with the university, but someone reported it to campus officials. Can the university still discipline me for something that happened off-campus and wasn’t part of a school event?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the University of Houston may still take disciplinary action even for off-campus incidents if the behavior has a substantial connection to the interests of the University, poses a threat of serious harm to any member of the University community, or violates University policy—regardless of location. While your party wasn’t a University-sponsored event, if the incident meets one of those criteria (e.g., involves threats, harassment, or impacts campus safety), the University can proceed with conduct review under Section 1.2 of the Student Handbook."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m in my final year and want to make sure I meet all graduation requirements, but I just received a notice that I’m being investigated for a potential violation of the Sexual Misconduct Policy based on an incident last semester. How will this affect my graduation timeline, and who handles this process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alleged violations of the University’s Sexual Misconduct Policy are exclusively handled by the Office of Title IX and Equal Opportunity Services (EOS), not the general Student Code of Conduct process, as stated in Section 1.4. EOS will investigate and determine next steps. If they find reasonable cause to believe your presence poses a significant risk, they may request an interim suspension—even before graduation. Importantly, University disciplinary proceedings can continue even if you’ve applied to graduate, and sanctions could impact your degree conferral. You have the right to appeal any sanctions through the Student Code of Conduct’s appeal process once a decision is made."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who is considered an Appellate Officer according to the student handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "An Appellate Officer includes the Assistant Vice President/Dean of Students or their respective designee."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What does the term 'Associate Dean' refer to in the UHCL Student Handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "The term 'Associate Dean' means the Associate Dean of Students, Director of Student Housing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How is 'Good Standing' defined for students at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Good Standing' means that a student has complied with any assigned sanctions if applicable, and is not in the process of serving on probation, suspension, or expulsion."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which individuals or groups are included as Hearing Officers under the handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hearing Officers include the Associate Dean of Students, Assistant Dean of Students, the Coordinator for Student Conduct and Residential Life, the Graduate Assistant Hall Director, and the University Hearing Board or their designees."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What sources define 'Hazing' according to the UHCL Student Handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Hazing' is defined by the Texas Education Code Chapter 37, § F; the Prohibited Conduct Section of the Student Code of Conduct regarding Hazing; and the UHCL Hazing Policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who counts as an Appellate Officer if I want to appeal a conduct decision?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 2.1 of the Student Handbook, the Appellate Officer includes the Assistant Vice President/Dean of Students or their designated representative."
+      },
+      {
+        "role": "user",
+        "content": "So if the Dean is unavailable, someone else could handle my appeal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, exactly. The Dean may appoint a designee to act as the Appellate Officer in their absence, and that person would have the authority to review and decide on your appeal."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What does it mean to be in 'Good Standing' at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "As defined in Section 2.6 of the Student Handbook, a student is in 'Good Standing' if they’ve complied with any assigned sanctions and are not currently on probation, suspension, or expulsion."
+      },
+      {
+        "role": "user",
+        "content": "Does that affect my ability to register for classes or join student organizations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, being in Good Standing is often required for activities like registering for future terms, holding leadership roles in student organizations, or participating in certain university programs. If you’re unsure about your status, you can contact the Office of Student Conduct for clarification."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester, but I received a notice about a conduct violation. I’m not sure who will be handling my case—can you tell me who might serve as the Hearing Officer?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 2.9 of the Student Handbook, a Hearing Officer can include the Associate Dean of Students, Assistant Dean of Students, the Coordinator for Student Conduct and Residential Life, the Graduate Assistant Hall Director, the University Hearing Board, or their designees. One of these individuals or groups will likely oversee your conduct case."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do next. The letter mentioned an 'Appellate Officer'—who exactly is that, and how do I contact them?"
+      },
+      {
+        "role": "assistant",
+        "content": "As defined in Section 2.1 of the Student Handbook, the Appellate Officer is the Assistant Vice President/Dean of Students or their designated representative. If you’re considering appealing a conduct decision, you should reach out to the Office of the Dean of Students to identify the current Appellate Officer and learn about the appeal process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What standard of proof is used in student disciplinary cases at the University of Houston-Clear Lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The standard of proof used in student disciplinary cases is 'preponderance of the evidence,' which means it must be more likely than not that the student violated a Code provision or University policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who is considered a 'respondent' in the student discipline process?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 'respondent' is the accused student in the student discipline process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What does the term 'sanction' mean in the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 'sanction' refers to the penalty imposed for violating the Prohibited Conduct Section of the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What types of materials are included in the 'record' of a disciplinary proceeding?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'record' includes all correspondence related to the Student Disciplinary Procedures and any hard copy or electronic documents, forms, copies, reports, statements, recordings, or tangible evidence presented during a disciplinary hearing or conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is a 'Referral Notice' in the context of student discipline?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 'Referral Notice' is the official notice that initiates disciplinary action against a student."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I just got a Referral Notice—what does that mean exactly?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 'Referral Notice' is the official notice that initiates disciplinary action against you under the Student Code of Conduct. It means the University has received information suggesting you may have violated a policy, and they’re starting the formal student discipline process."
+      },
+      {
+        "role": "user",
+        "content": "So does that automatically mean I’m in trouble? What standard do they use to decide if I did something wrong?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not automatically—it just means an investigation or review will begin. The standard used is called 'preponderance of the evidence,' which means they’ll evaluate whether it’s more likely than not that you violated a Code provision or University policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I was told I’m a 'Respondent' in a conduct case. Who exactly counts as a 'Student' under the Code?"
+      },
+      {
+        "role": "assistant",
+        "content": "Under the Student Code of Conduct, a 'Student' includes anyone who is currently enrolled, accepted for admission, eligible to continue enrollment after a prior term, attending a University-sponsored program on campus, or who engaged in prohibited conduct while meeting any of those criteria."
+      },
+      {
+        "role": "user",
+        "content": "Got it. And what kind of materials might be included in my disciplinary 'Record'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Your 'Record' includes all correspondence related to the disciplinary process, plus any hard copy or electronic documents, forms, reports, statements, recordings, or tangible evidence presented during a disciplinary hearing or conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester, but I received a Referral Notice saying I violated the Code of Conduct during orientation week. I don’t even remember doing anything wrong—what does this mean and what should I expect next?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Referral Notice is the official document that starts the disciplinary process at the University of Houston-Clear Lake. As a student (which includes anyone currently enrolled, like you), you’re entitled to due process under the Student Disciplinary Procedures. The university will evaluate your case using the 'preponderance of the evidence' standard—meaning they’ll determine if it’s more likely than not that you violated a policy. You should review the notice carefully, gather any information or witnesses that support your side, and prepare to participate in a disciplinary conference or hearing. All related documents and communications will become part of your disciplinary Record."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice last week for something that allegedly happened during finals last semester, but I’m no longer enrolled this term. Can the university still hold me accountable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the university can still pursue disciplinary action. According to the Student Code of Conduct, a 'Student' includes anyone who was enrolled during the time the alleged conduct occurred—even if you’re not currently enrolled. Since the incident happened while you were a registered student last semester, you meet the criteria under Section 2.17(c). The university may proceed with the disciplinary process, and any resulting sanctions could affect your ability to re-enroll or receive transcripts. It’s important to respond to the Referral Notice and participate in the process to share your perspective."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Does being drunk or high excuse someone from violating the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Being under the influence of drugs and/or alcohol does not diminish or excuse a violation of the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is considered 'Complicity' under the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complicity occurs when a student, through action or omission, assists another person or group in committing or attempting to commit a violation of the Code of Conduct. Students who know about such violations are required to remove themselves from the situation; failure to do so when reasonable may result in a policy violation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it against university policy to help someone else break the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Both 'Aiding and Abetting' (assisting, hiring, or encouraging someone to violate the Code) and 'Complicity' (failing to disengage from a known violation when reasonable) are prohibited under the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What types of discrimination are explicitly prohibited by the university?"
+      },
+      {
+        "role": "assistant",
+        "content": "The university prohibits intentional discrimination based on age (over 40), race, color, disability, religion, national origin, veteran status, genetic information, sexual orientation, gender, sex (including pregnancy), gender identity, and gender expression, except where permitted by law."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can using my phone during class lead to a conduct violation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, if your use of a cell phone (or other electronic device) substantially or repeatedly interrupts teaching or student learning, it may constitute Disruption/Obstruction, which is a violation of the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "If I see someone vandalizing a campus building but I don’t stop them or report it, could I get in trouble?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you could. According to Section 3.2 (Complicity) of the Student Code of Conduct, students who have knowledge of another person committing or attempting to commit a violation are required to remove themselves from the situation. If you stay and do nothing when it’s reasonable to act—like reporting the incident—you may be found in violation of the policy."
+      },
+      {
+        "role": "user",
+        "content": "What if I was just passing by and didn’t want to get involved? Does that still count?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even if you were just passing by, if you knowingly remain present and don’t take reasonable steps—such as leaving the area or notifying authorities—you could be considered complicit under Section 3.2. The policy emphasizes that failure to remove yourself when it’s reasonable under the circumstances may lead to disciplinary action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I get in trouble for helping a friend cheat on an exam, even if I didn’t take the test myself?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, absolutely. Section 3.1 (Aiding and Abetting) states that assisting, encouraging, or hiring another person to engage in a Code violation—including academic dishonesty—is itself a violation. So sharing answers, letting someone copy your work, or helping them access unauthorized materials during an exam would all be considered prohibited conduct."
+      },
+      {
+        "role": "user",
+        "content": "What if I didn’t know they were going to use my notes to cheat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Intent matters, but the University evaluates whether your actions reasonably contributed to the violation. If you shared notes knowing your friend was unprepared or had a history of academic misconduct, it might still be viewed as aiding. However, if you genuinely had no reason to believe your notes would be used improperly, that context would be considered during any review. Still, it’s best to avoid sharing materials in high-risk situations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. Last week, I saw my roommate trying to spray-paint graffiti on a campus building, and I didn’t say anything because I didn’t want to get involved. Could I get in trouble for that?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you could potentially be held responsible under Section 3.2 (Complicity) of the Student Code of Conduct. The policy states that if you have knowledge of someone committing or attempting to commit a violation and you don’t remove yourself from the situation—or fail to act when it’s reasonable to do so—you may be found in violation. In this case, staying present without intervening or reporting the incident could be seen as tacit support. It’s always best to distance yourself from prohibited conduct and, when safe, report it to University officials."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m in my final year and want to make sure I meet all graduation requirements. A few months ago, I lent my student ID to a friend so they could attend a campus event meant only for enrolled students. They ended up causing a disturbance during the event. Could this affect my graduation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it could. Lending your student ID to someone else may constitute 'Aiding and Abetting' under Section 3.1 of the Student Code of Conduct, especially if your friend used it to gain access to an event and then violated university policies (such as causing a disruption under Section 3.5). Even if you didn’t intend for a violation to occur, assisting someone in bypassing official access rules can result in disciplinary action. Since you’re nearing graduation, any unresolved conduct violations could delay the conferral of your degree. You should check with the Office of Student Conduct to see if a report was filed and address it promptly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a former student is found to have falsified their academic records at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "A former student who falsifies academic records may face consequences including a bar against readmission, revocation of a degree, and/or withdrawal of a diploma under the Student Disciplinary Procedures."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it against university policy to enter a campus building without authorization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, forcible or unauthorized entry to any University building, structure, facility, or grounds is prohibited under Section 3.8 of the Student Handbook."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can students gamble on campus using university computers?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, gambling, wagering, and/or bookmaking—whether on University grounds or using University equipment or services—is strictly prohibited under Section 3.9."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What types of actions are considered hazing at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hazing includes any intentional, knowing, or reckless act during initiation into or affiliation with a student organization that causes or creates a risk of physical or psychological injury. Examples include whipping, beating, sleep deprivation, exposure to the elements, confinement in small spaces, and extreme calisthenics—even if the person consents to participate."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What constitutes a false statement under UHCL’s prohibited conduct policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Providing false statements (written or oral), reporting false conduct allegations, making false emergency reports, furnishing false information to the university, or altering, forging, misrepresenting, or misusing University documents or records—including academic and financial aid records—are all considered false statements under Section 3.7."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I forgot to show up for a meeting with the Dean of Students last week because I was sick. Could that get me in trouble?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it could. According to Section 3 of the Student Handbook, failing to appear when requested by the Assistant Vice President/Dean of Students or their designee on any matter is considered prohibited conduct. If you were officially directed to attend, it’s important to either attend or contact the office as soon as possible to explain your absence and request to reschedule."
+      },
+      {
+        "role": "user",
+        "content": "I didn’t get an official email—just a reminder from a student worker. Does that still count?"
+      },
+      {
+        "role": "assistant",
+        "content": "The policy refers to directions from the Dean of Students or their official designee. If the student worker was acting on behalf of the Dean’s office and the meeting was part of a formal process (like a disciplinary matter), it may still be considered official. To be safe, you should reach out directly to the Dean of Students’ office to clarify whether your attendance was formally required and explain your situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "My friend used my student ID to get into the gym after theirs expired. Is that a big deal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, that is a violation of university policy. Under Section 3.7.a, falsification of records includes misuse of University documents like student IDs. Allowing someone else to use your ID—or using someone else’s—is considered misrepresentation and is prohibited conduct."
+      },
+      {
+        "role": "user",
+        "content": "What if it was just a one-time thing and no harm was done?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even a one-time incident can result in disciplinary action. The policy doesn’t require intent to cause harm—just the act of misusing a University-issued document like a student ID is enough to violate the code. Both you and your friend could be held responsible under the Student Disciplinary Procedures."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. A friend asked me to borrow my student ID so they can get into the campus recreation center since they forgot theirs. Is that allowed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, lending your student ID to someone else is not allowed. According to Section 3.7 of the Student Handbook, falsification of records includes misusing University documents like student IDs. Sharing your ID could be considered misuse and may result in disciplinary action for both you and your friend."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m in my final year and want to make sure I meet all graduation requirements. I noticed a mistake on my transcript from last year—can I just correct it myself before submitting my degree application?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, you should not alter your transcript or any academic record yourself. Section 3.7(a) of the Student Handbook explicitly prohibits falsifying, altering, or assisting in the alteration of official University records, including transcripts and degree applications. If you believe there’s an error, contact the Office of the Registrar to request a formal review and correction through proper channels."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What types of conduct are considered mental or bodily harm under the student handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mental or bodily harm includes: (a) intentionally inflicting harm; (b) acting with the purpose of causing harm; (c) reckless actions that could result in harm; (d) conduct like stalking that makes someone fear harm; (e) communicating threats that would cause harm to a reasonable person; and (f) acts that demean, degrade, or disgrace someone and cause—or are likely to cause—mental or bodily harm. This applies to harm directed at others or oneself."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it against university policy to secretly record someone in their dorm room?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. The handbook prohibits photographing, filming, or digitally recording another person without consent in any location where they have a reasonable expectation of privacy—such as a dorm room—unless it’s lawful security surveillance authorized by law enforcement or university officials."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I lend my university ID to a friend so they can access the library?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. The handbook explicitly prohibits transferring, lending, or borrowing University identification under Section 3.12, Misuse of Identification."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What counts as misuse of computers according to the student handbook?"
+      },
+      {
+        "role": "assistant",
+        "content": "Misuse of computers includes unauthorized or inappropriate use of University computing resources, using them for illegal, threatening, harassing, abusive, or destructive purposes, violating software licenses or contracts, breaching computer security, invading privacy, abusing communal resources, or using them for unauthorized commercial gain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is possessing a pocket knife on campus a violation of university policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. The handbook prohibits possession of any items used as weapons—including knives—on University premises, unless permitted by federal, state, local law, and/or University of Houston-Clear Lake policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m planning a welcome event for new club members and want to make sure our activities don’t violate any university policies. Is it okay if we ask them to do silly challenges like eating spicy food or staying up all night?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 3 of the Student Handbook, any activity that subjects a student to an unreasonable risk of harm or adversely affects their mental or physical health or safety is prohibited. This includes causing, coercing, or inducing someone to consume food, liquids, or other substances—even if it seems harmless or fun. Asking someone to eat something very spicy or stay up all night could pose health risks and may be considered hazing or harmful conduct."
+      },
+      {
+        "role": "user",
+        "content": "What if everyone volunteers and signs a waiver saying they’re okay with it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even with voluntary participation or signed waivers, the university still prohibits activities that create an unreasonable risk of harm or negatively impact health and safety. Consent does not override policy—especially when it comes to potential mental or bodily harm, as outlined in Section 3.11. It’s best to design inclusive, respectful activities that don’t involve physical discomfort, sleep deprivation, or consumption of substances."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "My roommate borrowed my UHCL ID to get into the library last week. Is that a big deal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, that’s a violation of university policy. Section 3.12 explicitly prohibits the transferring, lending, or borrowing of University identification. Even if it was just for library access and seemed harmless, sharing your ID compromises campus security and accountability."
+      },
+      {
+        "role": "user",
+        "content": "But they’re also a student—just forgot their own ID. Does that still count?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it still counts. The policy applies regardless of intent or whether the other person is also a student. Lending your ID—even temporarily or to another enrolled student—is considered misuse of identification under Section 3.12. Both you and your roommate could be held responsible. Going forward, encourage them to use their own ID or contact campus services if they’ve lost it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. My roommate keeps pressuring me to drink alcohol during parties, saying it's part of 'fitting in.' I don't want to, but I'm worried about being excluded. Is this allowed under the student conduct code?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, this is not allowed. According to Section 3 of the Student Handbook, 'causing, coercing, or otherwise inducing another person to consume... alcohol' is explicitly prohibited. You have the right to refuse without fear of retaliation or exclusion. If the pressure continues, you should report it to Student Conduct or Residence Life for support."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm planning to study abroad next year and need to know what conduct rules still apply. For example, if I record a video of my host family’s private ceremony without asking—thinking it’s just for my personal journal—could that violate university policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it could. Section 3.15 of the Student Handbook prohibits 'photographing, filming, digitally recording... another person without that person’s consent in any location where the person has a reasonable expectation of privacy.' This policy applies to all university-related activities, including study abroad programs. Always obtain clear consent before recording anyone, especially in private or culturally sensitive settings."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What types of behavior are considered sexual misconduct under the UHCL student code?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sexual misconduct includes, but is not limited to, sexual assault, sexual exploitation, sexual intimidation, sexual harassment, nonconsensual sexual contact, retaliation, sexual violence, intimate partner violence (including domestic and dating violence), and stalking."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it against university policy to possess stolen property on campus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, theft or attempted theft of property or services from any person or business on University grounds, as well as possessing property known to be stolen—whether belonging to the University or others—is prohibited under Section 3.18 of the Student Handbook."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can students drink alcohol on campus if they’re over 21?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alcoholic beverages may only be possessed, distributed, or consumed during events or in circumstances specifically authorized by University officials. Even students over 21 must comply with both state law and University regulations regarding alcohol use."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What actions related to drugs are prohibited at UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "The use, manufacture, distribution, sale, offer for sale, or possession of any controlled substances—including barbiturates, hallucinogens, amphetamines, cocaine, opium, heroin, marijuana, or misuse of prescription drugs—as well as possession of drug paraphernalia, is strictly prohibited under Section 3.22."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student violates the code while on disciplinary probation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Violating the Code of Conduct while on disciplinary probation or suspension, or failing to comply with the specific terms of that probation or suspension, constitutes a separate violation under Section 3.25 and may result in additional disciplinary action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m planning a small get-together in my dorm room and was thinking of serving some beer. Is that allowed under university policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 3.19 of the Student Handbook, the possession, distribution, or consumption of alcoholic beverages is prohibited except during events or in circumstances specifically authorized by University officials. Additionally, providing alcohol to anyone under 21—or consuming it yourself if you’re under 21—is a violation of both state law and university policy."
+      },
+      {
+        "role": "user",
+        "content": "What if everyone at the party is over 21? Can we still have alcohol in the dorm?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even if all attendees are over 21, alcohol is still not permitted in student housing unless the event has been formally authorized by University officials. Student Housing and Residential Life policies (Section 3.26) incorporate these restrictions, so having alcohol in your dorm room—even with legal-age students—would likely violate both Sections 3.19 and 3.26 of the handbook."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Someone took my laptop from the library study area. Is that covered under the student conduct code?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, theft of personal property on University grounds is explicitly prohibited under Section 3.18 of the Student Handbook, which covers 'Theft/Possession of Stolen Property.' This includes theft or attempted theft from any person on campus. You should report the incident to UHCL Campus Police immediately and also file a report with the Office of Student Conduct."
+      },
+      {
+        "role": "user",
+        "content": "If they find the person who took it, what kind of disciplinary action could they face?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the individual is a student and found responsible for violating Section 3.18, they could face sanctions ranging from disciplinary probation and restitution to suspension or expulsion, depending on the severity and circumstances. The case would be handled through the Office of Student Conduct following the procedures outlined in the Student Handbook."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. I live in the dorms, and my roommate has been using what looks like marijuana in our room when I’m not around. I found a small bag and some paraphernalia hidden under their bed. I don’t want to get them in trouble, but I’m worried about violating university rules myself by staying quiet. What should I do?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 3.22 of the Student Handbook, the possession of controlled substances—including marijuana—and drug paraphernalia is strictly prohibited on campus, regardless of personal use or intent. Additionally, Section 3.26 states that violations of Student Housing policies (which include drug use in residence halls) are considered prohibited conduct. While it’s understandable you don’t want to report your roommate, simply being aware of illegal activity in your shared living space could put you at risk if university officials discover it. We strongly encourage you to speak with your Resident Assistant (RA) or contact the Office of Student Conduct anonymously to seek guidance. They can help address the situation while considering your concerns."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice last week saying I violated policy 3.18 because someone reported that I borrowed their laptop without asking and didn’t return it for two days. I thought it was okay since we’re friends and they’d left it in the study lounge. I’ve since returned it, but I’m really stressed—could this affect my academic standing or lead to suspension?"
+      },
+      {
+        "role": "assistant",
+        "content": "Section 3.18 of the Student Handbook defines theft or possession of stolen property as taking or keeping someone else’s property without permission—even temporarily. Borrowing an item without explicit consent can be considered unauthorized possession, especially if the owner felt it was taken against their will. Since you’ve returned the laptop, that may be viewed as a mitigating factor during the conduct review. However, depending on the outcome of the investigation, consequences could range from a warning to more serious sanctions, particularly if this isn’t your first violation. It won’t automatically affect your academic standing, but if you’re placed on disciplinary probation or suspension (see Section 3.25), that could impact enrollment. You should attend your scheduled conduct meeting, explain your perspective honestly, and ask about possible educational resolutions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the rules about having pets in UHCL residence halls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Residents may only have non-carnivorous fish in a tank of 5 gallons or less. Service animals and emotional support animals are permitted only if pre-approved by Student Housing and Residential Life, and residents must follow all guidelines in the related agreements."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it allowed to host a party with 12 friends in my dorm room?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Assembling ten (10) or more people—including residents—in a residential room, suite, or apartment is prohibited under the Gatherings policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I run a small online business from my university apartment?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Operating a business, selling, or promoting a service or product from a residence hall room, suite, apartment, or common area is strictly prohibited."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What counts as a violation related to noise in the residence halls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making excessive noise or engaging in disruptive behavior that causes sound to be heard beyond your room, suite, or apartment violates the Courtesy/Quiet Hours policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Am I allowed to ride my skateboard inside the residence hall?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Indoor transport, use, parking, storing, or abandonment of wheeled transportation devices—including skateboards—is unauthorized and prohibited."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m planning to host a small get-together in my dorm room this weekend with some friends from off-campus. How many people can I have over without violating any policies?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 3.i of the Student Handbook, gatherings of ten (10) or more people—including residents—are prohibited in residential rooms, suites, or apartments. Additionally, under Section 3.j, all guests must be authorized and attended by their host at all times. Be sure your guests comply with university policies and that you don’t exceed the guest limits for consecutive nights."
+      },
+      {
+        "role": "user",
+        "content": "Got it. What if I only invite 8 people—6 residents and 2 off-campus friends? Is that okay as long as I stay with them the whole time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, that should be acceptable! Since your total group would be 8 people (under the 10-person limit), and your off-campus guests are attended by you the entire time, you’d be in compliance with both the gathering policy (3.i) and guest policy (3.j). Just remember that guests must follow all university rules while visiting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I keep a hamster in my dorm room? It’s really small and quiet."
+      },
+      {
+        "role": "assistant",
+        "content": "Unfortunately, no. According to Section 3.e of the Student Handbook, pets are not allowed in residence halls except for non-carnivorous fish in a tank of 5 gallons or less, pre-approved service animals, or emotional support animals approved by Student Housing and Residential Life. Hamsters, even small and quiet ones, are not permitted."
+      },
+      {
+        "role": "user",
+        "content": "What if I apply to have my hamster approved as an emotional support animal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only animals that meet specific criteria and are formally approved through Student Housing and Residential Life can be kept as emotional support animals. However, approval is typically limited to certain types of animals, and rodents like hamsters are generally not approved. You’d need to submit a request and documentation through the official process, but there’s no guarantee of approval."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. My roommate wants to host a small get-together with about 12 friends in our apartment this weekend. Is that allowed under the student housing rules?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 3.i of the Student Handbook, gatherings of ten (10) or more people—including residents—are prohibited in residential rooms, suites, or apartments. Since your planned get-together would include 12 people, it would violate this policy. You might consider hosting a smaller group or meeting in a designated common area that allows larger gatherings, if available."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m planning to study abroad next year and want to sublet my residence hall room to a friend while I’m gone to avoid paying rent. Is that permitted under the housing policies?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, subletting your residence hall room is not allowed. Section 3.d of the Student Handbook explicitly prohibits 'unauthorized occupancy or use of residential facilities,' which includes subletting. Even if you’re studying abroad, your housing contract remains in effect, and only approved occupants may stay in your assigned space. Contact Student Housing and Residential Life to discuss your options for managing your housing during your time abroad."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it allowed to light candles in my dorm room?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, possession and use of candles are prohibited under Section 3.r of the Student Handbook, which bans open flames, burning embers, and flammable materials including candles, incense, and similar items."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I don’t leave the building when the fire alarm goes off?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing to evacuate after a fire alarm is activated or not following directions from University or emergency personnel violates Section 3.q of the Student Handbook and is considered prohibited conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I ride my skateboard on campus sidewalks and benches?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. According to Section 3.27, wheeled recreational transportation like skateboards cannot be used on benches, steps, walls, or inside buildings without permission. You must walk your device in pedestrian areas such as walkways, pathways, and mall areas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is fishing allowed in the campus pond?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Section 3.29 states that UHCL is a designated nature preserve and all wildlife is protected. Activities like fishing are prohibited unless part of approved faculty-sponsored research or teaching authorized by the IACUC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Are toaster ovens allowed in student housing?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Section 3.t prohibits appliances with an open heat source or without thermostat control, which includes toaster ovens, hot plates, and space heaters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I accidentally set off the fire alarm while cooking with a hot plate in my dorm. Could I get in trouble for that?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you could face disciplinary action. According to Section 3(p) and 3(t) of the Student Handbook, using appliances with an open heat source or no thermostat control—like hot plates—is prohibited. Additionally, activating the fire alarm through a forbidden activity (such as using banned cooking equipment) is considered prohibited conduct."
+      },
+      {
+        "role": "user",
+        "content": "What if I didn’t know hot plates weren’t allowed? Does intent matter?"
+      },
+      {
+        "role": "assistant",
+        "content": "While your intent may be considered during the disciplinary review, ignorance of the policy doesn’t exempt you from responsibility. The handbook states that activation of the fire alarm through forbidden activity—regardless of intent—is a violation. It’s important to review housing guidelines to avoid future issues."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I ride my skateboard through the campus mall area or up the library steps?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, you cannot. Per Section 3.27 of the Student Handbook, wheeled recreational transportation—including skateboards—is not permitted on campus benches, steps, walls, or inside buildings without permission. You’re expected to walk your skateboard in pedestrian areas like malls, walkways, and pathways to ensure safety and respect for others."
+      },
+      {
+        "role": "user",
+        "content": "What if I’m just quickly hopping up the library steps to return a book? Is that still a violation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it would still be a violation. The policy explicitly prohibits using wheeled transportation on steps, regardless of duration or purpose. Even brief use on stairs or walls is not allowed. If you need to enter the library, please dismount and carry or walk your skateboard."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. I brought a small candle to my dorm room to help me relax during study sessions. Is that allowed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, candles are explicitly prohibited in student housing under Section 3(r) of the Student Handbook. This includes all open flames, burning embers, and flammable materials such as incense, fireworks, and even live or cut Christmas trees. Using a candle—even for relaxation—violates university policy and could result in disciplinary action, especially if it leads to fire alarm activation. Consider using flameless LED candles or essential oil diffusers (without heat) as safer alternatives."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice after my roommate set off the fire alarm while cooking with a hot plate in our dorm. I wasn’t home at the time—can I still be held responsible?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you may still be held jointly responsible. According to Section 3(t), possessing appliances with an open heat source—like hot plates—is prohibited in university housing. Additionally, Section 3(p) states that intentional false activation of the fire alarm (or activation due to forbidden activity like unauthorized cooking) is a violation. Even if you weren’t present, university policy often holds all residents of a room accountable for prohibited items found in shared living spaces. You should attend any scheduled disciplinary meeting to explain your absence and clarify your involvement—or lack thereof—but be prepared to address how such items came to be in your room."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who is allowed to file a written allegation of a Student Code of Conduct violation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any member of the University community may submit a written allegation of a violation of the Prohibited Conduct Section of the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What information must be included in a written allegation of misconduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "A written allegation must include the name of the complainant and sufficient facts such as a description of the alleged violation, the date, time, and location of the incident, and the name(s) of the student(s) involved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it necessary to provide my name when reporting a conduct violation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the complainant must include their name in the written allegation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who reviews allegations of Student Code of Conduct violations to determine if further investigation is needed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Assistant Vice President/Dean of Students or their designee reviews the allegations to decide if further fact-finding is necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if my report doesn’t include enough details about the alleged violation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The allegation must include sufficient facts to enable the Assistant Vice President/Dean of Students or designee to determine whether further fact-finding is necessary; without adequate details, the report may not proceed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I want to report a student for violating the Code of Conduct, but I’m not sure what information I need to include. Can you help?"
+      },
+      {
+        "role": "assistant",
+        "content": "Of course! According to Section 4 of the Student Handbook, your written allegation must include your name as the complainant and sufficient facts to help the Assistant Vice President/Dean of Students decide if further investigation is needed. This should include a description of the alleged violation, the date and time it occurred, the location, and the name(s) of the student(s) involved."
+      },
+      {
+        "role": "user",
+        "content": "Do I have to include my name? What if I want to stay anonymous?"
+      },
+      {
+        "role": "assistant",
+        "content": "The handbook states that the allegation must include the name of the complainant. Anonymous reports don’t meet the requirement because the University needs to be able to follow up if necessary. However, your information will be handled with appropriate confidentiality during the process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I saw something happen last week that might be a conduct violation, but I don’t know the exact time—just the date and place. Is that enough to file a report?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can still submit a report! The handbook says your allegation should include pertinent facts such as the date, location, time, description of the violation, and names of students involved—but ‘should include’ means these details are helpful, not all strictly mandatory. Provide as much detail as you can; even an approximate time is acceptable if you’re unsure."
+      },
+      {
+        "role": "user",
+        "content": "What happens after I submit the report? Will I be contacted?"
+      },
+      {
+        "role": "assistant",
+        "content": "After you submit your written allegation, the Assistant Vice President/Dean of Students or their designee will review it to determine if there’s enough information to warrant further fact-finding. Since your name is included, they may contact you if they need clarification or additional details."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. Someone accused me of violating the Student Code of Conduct, but I haven’t received any official notice yet—just heard rumors. What should I expect if a formal allegation is made against me?"
+      },
+      {
+        "role": "assistant",
+        "content": "If a formal allegation is submitted, it must be in writing and include specific details like the date, time, location, description of the alleged violation, and names of those involved—including yours. The Assistant Vice President/Dean of Students (or their designee) will review the complaint to determine if further investigation is needed. You’ll be notified officially if the matter moves forward, and you’ll have the opportunity to respond. Until then, rumors aren’t actionable—stay calm and prepare to cooperate if contacted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do. The email says someone filed a complaint about an incident last month, but it doesn’t give many details. Is that enough to start a disciplinary process?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 4 of the Student Handbook, a valid allegation must include sufficient facts—such as a description of the alleged violation, date, time, location, and names of students involved—to allow the Assistant Vice President/Dean of Students or designee to decide if further fact-finding is necessary. If your notice lacks these details, it may not meet the threshold for initiating formal action. You should contact the Office of the Dean of Students to request clarification and understand your rights in the process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What information is included in a Disciplinary Referral Notice?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Disciplinary Referral Notice includes: (1) information about the alleged student conduct, (2) a statement of the Code provision(s) and/or University policy allegedly violated, (3) information about the student’s rights and responsibilities, (4) a Respondent Disciplinary Choice Form, and (5) a redacted copy of the incident report or other charging document."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How does the university consider a written notice to be officially received by a student?"
+      },
+      {
+        "role": "assistant",
+        "content": "A written notice is considered received when any of the following occurs: (1) it is mailed via USPS or campus mail to the student’s current local or permanent address on file with the Registrar, (2) it is sent to the student’s official University email address, or (3) it is hand-delivered to the student."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a student avoid disciplinary action by claiming they didn’t get the notice because their email inbox was full?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. A student’s failure to receive an email notice—such as due to a full mailbox or improper forwarding—does not constitute good cause for failing to comply with written notices under the Code."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I don’t respond to a Disciplinary Referral Notice within five business days?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you fail to contact the Hearing Officer within five business days of receiving the Disciplinary Referral Notice, you will be considered to have elected to proceed with a Disciplinary Conference under the Student Disciplinary Procedures, and the University may hold the conference without your presence."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the consequences of not complying with official university notices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure to comply with official notices constitutes a separate violation of the Code. Additionally, the Assistant Vice President/Dean of Students may place a hold on or cancel the student’s enrollment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I just got a Disciplinary Referral Notice in my university email. What am I supposed to do next?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 5.6 of the Student Handbook, you must contact the Hearing Officer within five business days of receiving the notice. Your response should be sent electronically by email and/or hand-delivered to the Dean of Students Office, along with the signed Rights and Responsibilities Document and your completed Respondent Disciplinary Choice Form."
+      },
+      {
+        "role": "user",
+        "content": "What happens if I don’t respond within those five days?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you don’t respond within the five-business-day window, Section 5.7 states you’ll be considered to have elected to proceed with a Disciplinary Conference under the Student Disciplinary Procedures—even without your participation. Also, per Section 5.4, failing to respond is itself a separate violation of the Code, and the University may place a hold on your enrollment under Section 5.5."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I didn’t get any notice about a conduct issue, but now there’s a hold on my account. How is that possible?"
+      },
+      {
+        "role": "assistant",
+        "content": "Per Section 5.2, official notices are considered received if they’re sent to your official University email address, mailed to your local or permanent address on file with the Registrar, or hand-delivered. Even if you didn’t personally read it, the notice is still valid."
+      },
+      {
+        "role": "user",
+        "content": "But my email inbox was full—does that count as not receiving it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unfortunately, no. Section 5.3 explicitly states that a full mailbox—or failure to maintain current contact information—does not excuse noncompliance. The University considers the notice properly delivered once it’s sent to your official email, regardless of whether you actually accessed it."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice in my university email about an alleged conduct violation, but I’ve been traveling and didn’t check my inbox until six days later. What should I do now?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 5.2 of the Student Handbook, notices sent to your official University email are considered received immediately. Section 5.6 requires you to contact the Hearing Officer within five business days of receiving the notice. Since it’s already been six days, Section 5.7 states you’ll be considered to have elected a Disciplinary Conference. You should contact the Hearing Officer or Dean of Students Office as soon as possible to understand next steps—even if the deadline passed, it’s important to respond to avoid additional violations under Section 5.4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m a freshman and just moved off campus last week, but I forgot to update my address with the Registrar. Now I’m worried I might miss an important disciplinary notice if one is sent by mail. What happens if I don’t get it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Per Section 5.3 of the Student Handbook, failing to maintain a current address with the Registrar does not excuse you from complying with written notices. Notices are considered properly delivered if sent to your official University email, campus mail, or your listed postal address—even if you don’t actually receive them. If a disciplinary notice is issued and you don’t respond within five business days (as required by Section 5.6), the University may proceed with a Disciplinary Conference without you (Section 5.7) and could place an enrollment hold (Section 5.5). Update your address immediately and monitor your University email daily."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are my options for a disciplinary hearing after receiving a Disciplinary Referral Notice?"
+      },
+      {
+        "role": "assistant",
+        "content": "You have two options: a hearing before the University Hearing Board or a Disciplinary Conference with the Hearing Officer. You must indicate your choice on the Respondent Disciplinary Choice Form and submit it within five business days of receiving the notice."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I don’t choose a hearing type within five business days?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you fail to select either a hearing before the University Hearing Board or a Disciplinary Conference within the five-business-day period, you will automatically be scheduled for a Disciplinary Conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How do I submit my choice for a disciplinary hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "You must complete the Respondent Disciplinary Choice Form and submit it to the Hearing Officer either by email or hand delivery."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who notifies me about the time, date, and location of my disciplinary hearing or conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Hearing Officer will notify you of the time, date, and place of your Disciplinary Conference or hearing before the University Hearing Board."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How long do I have to decide between a University Hearing Board and a Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "You have five business days from the date you receive the Disciplinary Referral Notice to make your selection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I just got a Disciplinary Referral Notice. What are my options for a hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "You have two options: you can choose a hearing before the University Hearing Board or a Disciplinary Conference with the Hearing Officer. You must indicate your choice on the Respondent Disciplinary Choice Form and submit it via email or hand delivery within five business days of receiving the notice."
+      },
+      {
+        "role": "user",
+        "content": "What happens if I don’t submit the form within five business days?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you don’t select an option within the five-business day period, you’ll automatically be scheduled for a Disciplinary Conference with the Hearing Officer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I missed the deadline to choose my hearing type. Can I still request a University Hearing Board instead of a Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 6.2 of the Student Handbook, if you fail to select a hearing type within the five-business day window, you’re automatically considered to have elected a Disciplinary Conference. That means your case will proceed with the Hearing Officer unless there are exceptional circumstances—though those are reviewed on a case-by-case basis."
+      },
+      {
+        "role": "user",
+        "content": "Will I be told when and where my Disciplinary Conference is happening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Section 6.3 states that the Hearing Officer will notify you of the time, date, and place of your Disciplinary Conference (or University Hearing Board hearing, if you had chosen that option)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice yesterday and I’m not sure what to do next. I’ve never been through this before—what are my options and how much time do I have to decide?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 6.1 of the Student Handbook, you have five business days from the date you received the Disciplinary Referral Notice to choose between a hearing before the University Hearing Board or a Disciplinary Conference with the Hearing Officer. You’ll need to fill out the Respondent Disciplinary Choice Form and submit it to the Hearing Officer via email or hand delivery. If you don’t make a choice within that timeframe, Section 6.2 states you’ll automatically be scheduled for a Disciplinary Conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m in my final year and just received a disciplinary referral. I’m worried this might delay my graduation if I don’t handle it correctly—what’s the fastest way to resolve this?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since you’re in your final year, acting quickly is important. Per Section 6.1, you must submit your choice—either a Disciplinary Conference or a University Hearing Board hearing—within five business days using the Respondent Disciplinary Choice Form. A Disciplinary Conference with the Hearing Officer is typically faster than a full board hearing, so if your goal is timely resolution, that may be the more efficient option. Keep in mind that if you don’t submit your choice on time, Section 6.2 says you’ll automatically be assigned a Disciplinary Conference anyway."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How much advance notice must a student receive before a Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "The student must receive written notice of the alleged violation(s), incident reports, and supporting documentation at least three business days prior to the scheduled conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a student bring a lawyer to their Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a student may bring an attorney as their advisor, but the attorney serves only in an advisory capacity and may address the Hearing Officer only with permission. The student must notify the Hearing Officer of the attorney’s name and contact information at least three business days before the conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student doesn’t show up to their scheduled Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the student fails to appear, the Hearing Officer will proceed with investigating the allegations without them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Will students have access to their case file before the Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the student has the right to access the case file at least three business days prior to the conference and during the conference itself."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How long does it take to get a decision after a Disciplinary Conference?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Hearing Officer will notify the student of the decision in writing within ten business days of the close of the investigation, and a copy of the decision will be sent to the student."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I just got notified about a Disciplinary Conference next week. When will I receive the incident report and other documents related to my case?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 7.1 of the Student Handbook, you’ll receive written notice of the alleged violation(s), along with incident reports and supporting documentation, at least three business days before your scheduled conference. Please note that incident reports are not sent electronically—they’ll be provided to you in hard copy."
+      },
+      {
+        "role": "user",
+        "content": "Got it. Can I bring my lawyer to the conference? And do I need to let anyone know ahead of time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you may bring an attorney as your advisor, but they can only participate in an advisory capacity and must get permission from the Hearing Officer to speak. You’re required to notify the Hearing Officer of your attorney’s name and contact information at least three business days before the conference. Also, if you bring an attorney, the University may choose to have its own attorney present."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I can’t make it to my Disciplinary Conference? Will my case just be dismissed?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, your case won’t be dismissed. According to Section 7.4, if you fail to appear for your scheduled Disciplinary Conference, the Hearing Officer will proceed with investigating the allegations without your input."
+      },
+      {
+        "role": "user",
+        "content": "If the Hearing Officer finds new evidence during their investigation after the conference, will I get a chance to respond to it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Per Section 7.5, before a final decision is made, you’ll be given an opportunity to respond to any new information the Hearing Officer obtains during the investigation. However, if you don’t attend that follow-up meeting, the Hearing Officer will make a decision based on the information they’ve gathered."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester, but I received a disciplinary notice about an incident I don’t remember clearly. The conference is in two days—what are my rights before it happens?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 7 of the Student Handbook, you should have received written notice of the alleged violation(s), along with incident reports and supporting documentation, at least three business days before your Disciplinary Conference. Since your conference is in two days, that timeline may not have been met. You also have the right to review the full case file at least three business days prior to and during the conference. If you haven’t received these materials, you can contact the Hearing Officer to request them or ask to reschedule to ensure your rights are respected."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I’m not sure what to do—I want to bring my lawyer to the conference. What do I need to know?"
+      },
+      {
+        "role": "assistant",
+        "content": "You’re allowed to bring an attorney as your advisor to the Disciplinary Conference, but they can only serve in an advisory role and may speak only with the Hearing Officer’s permission. Importantly, you must notify the Hearing Officer of your attorney’s name and contact information at least three business days before the conference. Also, if you bring an attorney, the University may choose to have its own attorney present. Remember, your advisor cannot attend in your place—you must appear yourself."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who appoints the student members of the University Hearing Board?"
+      },
+      {
+        "role": "assistant",
+        "content": "The student members of the University Hearing Board are appointed by Student Government."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the minimum number of people required for a quorum, and what are the composition requirements?"
+      },
+      {
+        "role": "assistant",
+        "content": "A quorum consists of five persons, with at least three being students and at least one being faculty or staff."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a hearing proceed if a quorum isn't met?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, if a quorum is not met but at least three people are present—including at least one student—the respondent may request that the hearing proceed with those members present."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who selects the Chair of the University Hearing Board for a scheduled hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Chair must be selected from the student members present at the scheduled hearing, and the student is chosen by the Board to serve as Chair for the duration of that hearing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a University Hearing Board member resigns or is removed?"
+      },
+      {
+        "role": "assistant",
+        "content": "If a Board member resigns, cannot serve, or is removed from office, the Associate Dean of Students, Director of Student Housing will select one of the alternates to fill the vacancy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How many people are on the University Hearing Board, and who appoints them?"
+      },
+      {
+        "role": "assistant",
+        "content": "The University Hearing Board is composed of 17 members total: seven students appointed by Student Government, five faculty members appointed by the Faculty Senate, and five staff members appointed by the University Staff Association."
+      },
+      {
+        "role": "user",
+        "content": "Are there backup members in case someone can't attend a hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. There are at least seven alternate members: at least three student alternates (appointed by Student Government), at least two faculty alternates (appointed by the Faculty Senate), and at least two staff alternates (appointed by the University Staff Association)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if not enough board members show up for a hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "A quorum requires at least five people, including at least three students and one faculty or staff member. However, if fewer than five are present but at least three people attend—including at least one student—the respondent can request that the hearing proceed with those members."
+      },
+      {
+        "role": "user",
+        "content": "Who leads the hearing if it goes ahead with just three members?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Chair must always be selected from the student members present at the hearing. So even in a reduced panel, as long as there’s at least one student, they—or another student present—will serve as Chair for that hearing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice about an alleged violation involving my student organization, and I’m nervous because I’ve never been through this before. What should I expect from the University Hearing Board process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since your case involves a Registered Student Organization, it will be heard by the University Hearing Board. The board is made up of students, faculty, and staff—all in good standing with the University. At least five members must be present for a hearing (a quorum), including at least three students and one faculty or staff member. If fewer than five are available but at least three show up (with one being a student), you can request the hearing proceed anyway. A student member present at the hearing will be selected as Chair for that session. You’ll have the chance to share your side of the story, and the board will make a fair determination based on the evidence."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m a sophomore and was just appointed as a student member of the University Hearing Board, but I’m not sure what happens if I can’t attend a scheduled hearing. What’s the procedure if I need to step down or miss a session?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you’re unable to serve—whether due to scheduling conflicts, resignation, or other reasons—the Associate Dean of Students (who also serves as Director of Student Housing) will appoint a student alternate to fill your vacancy. Alternates are already designated by Student Government, so there’s a clear process in place. Just be sure to notify the appropriate office as soon as possible if you know you can’t attend. Also, keep in mind that all board members must remain in good standing with the University; if you’re ever removed for justifiable cause, you have the right to appeal that decision to the Assistant Vice President/Dean of Students."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How far in advance must a student notify the Hearing Officer if they want their attorney to attend the disciplinary hearing as an advisor?"
+      },
+      {
+        "role": "assistant",
+        "content": "The student must notify the Hearing Officer of the attorney’s name and contact information at least three business days prior to the hearing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a disciplinary hearing be open to the public?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but only if the respondent requests an open hearing in writing at least three business days before the hearing and the request is approved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student doesn’t show up to their disciplinary hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the respondent fails to appear, the University Hearing Board will decide the case in the charged student’s absence."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who has the burden of proof in a University disciplinary hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "The burden of proof lies with the complainant or the University (whichever is applicable) to prove it is more likely than not that the student violated a Code provision and/or University policy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Will I get access to the recording of my disciplinary hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, upon written request, the respondent will be afforded access to the recording of the hearing. Only recordings made by the Hearing Officer are permitted."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’ve been notified of a disciplinary hearing next week. Can I bring my lawyer with me?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you may bring an attorney as your advisor. However, they can only serve in an advisory capacity and may address the Board only if the Chair grants permission. You must notify the Hearing Officer of your attorney’s name and contact information at least three business days before the hearing."
+      },
+      {
+        "role": "user",
+        "content": "What happens if I don’t submit my attorney’s info on time?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you don’t provide your attorney’s information at least three business days prior to the hearing, the University may not allow them to participate as your advisor. It’s important to meet this deadline to ensure your advisor can attend."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’d like people to be able to attend my hearing—can I make it open to the public?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hearings are closed by default, but you can request an open hearing. To do so, you must submit a written request to the Hearing Officer at least three business days before the hearing. The request must also be approved."
+      },
+      {
+        "role": "user",
+        "content": "If my request is approved, who exactly would be allowed to come?"
+      },
+      {
+        "role": "assistant",
+        "content": "If approved, members of the public may attend, though the Chair retains control over the proceedings. Anyone disrupting the hearing or failing to follow the Chair’s rulings can be removed. Also, note that witnesses (other than you and the complainant) will still be excluded while others are testifying."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do. I want to bring my lawyer to the hearing—what do I need to know?"
+      },
+      {
+        "role": "assistant",
+        "content": "You’re allowed to have an attorney serve as your advisor during the hearing, but they can only participate in an advisory capacity and may speak only with the Chair’s permission. To bring your lawyer, you must notify the Hearing Officer of their name and contact information at least three business days before the hearing. Also, if your advisor is an attorney, the University may choose to have its own attorney present. Remember, your advisor cannot appear in your place—you must attend the hearing yourself."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m a freshman and just started this semester, but I’ve been accused of violating the Student Code of Conduct. I’m really nervous about the hearing process—can people just show up and watch?"
+      },
+      {
+        "role": "assistant",
+        "content": "Don’t worry—disciplinary hearings are closed to the public by default, so only those directly involved will be present. However, if you’d prefer an open hearing, you can request one in writing from the Hearing Officer at least three business days before the hearing date. That said, most students choose to keep hearings closed for privacy. You’ll also receive all relevant documents and a witness list at least three business days in advance to help you prepare."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What factors are considered when determining disciplinary sanctions at the University of Houston-Clear Lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The factors considered include the respondent’s motivation for the behavior, their disciplinary history, how much the behavior jeopardizes campus safety and security, the impact on any victim, and the likelihood of the behavior recurring."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "If a student is expelled, can they ever return to the University of Houston-Clear Lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. Expulsion permanently separates the student from the University and prohibits them from ever attending, enrolling in courses, or being present on campus without permission from the Dean of Students Office. It is also noted on their permanent record."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student violates a university rule while under Deferred Suspension?"
+      },
+      {
+        "role": "assistant",
+        "content": "If a student violates any University rule while under Deferred Suspension, the suspension may be implemented immediately, and additional conduct sanctions appropriate to the new violation(s) may be imposed. Failure to comply with any additional restrictions set by the Dean of Students Office also counts as a conduct violation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can victims of non-forcible sex or violence-related policy violations find out the outcome of campus disciplinary proceedings?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Upon written request, the Hearing Officer will disclose the results of the campus disciplinary proceedings to the victim of a non-forcible sex or violence-related policy violation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What types of sanctions might a student receive for violating the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanctions may include expulsion, suspension, deferred suspension, disciplinary probation, revocation of admission or degree, educational programs, reprimand, restitution, warning, or other sanctions such as disenrollment, no-contact orders, activity restrictions, fines, community service, housing changes, or mandatory assessments."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I was just placed on disciplinary probation. What does that actually mean for me?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disciplinary probation means you’re considered 'not in good standing' with the University for a specified period. During this time, any further misconduct could lead to more serious consequences—up to and including expulsion. You may also have additional restrictions assigned by the Dean of Students Office, and the probation will appear on your permanent record while it’s active."
+      },
+      {
+        "role": "user",
+        "content": "Will this show up on my transcript forever?"
+      },
+      {
+        "role": "assistant",
+        "content": "No—it will only be noted on your permanent conduct record during the period of probation. Once the probation period ends, it won’t continue to appear unless there are other unresolved sanctions or holds on your record."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "My friend got deferred suspension. What happens if they break a rule before the suspension date?"
+      },
+      {
+        "role": "assistant",
+        "content": "If a student under deferred suspension violates any University rule before the deferral period ends, the suspended sanction can be activated immediately. On top of that, they may face additional sanctions related to the new violation."
+      },
+      {
+        "role": "user",
+        "content": "Can they still go to class and live on campus during the deferral period?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, during the deferral period, they’re generally allowed to attend classes and participate in campus life—unless the Dean of Students Office has imposed specific restrictions as part of the sanction. But they must strictly follow all University rules, or the suspension will take effect right away."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester, but I got into a verbal altercation during orientation week that led to a disciplinary notice. I’ve never been in trouble before—what kind of sanction might I face, and will it stay on my record?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since this is your first conduct issue and there’s no prior disciplinary history, the University will consider factors like your motivation, the impact of your actions, and whether the behavior is likely to happen again. For a first-time, non-violent incident like a verbal altercation, you might receive a lesser sanction such as a Warning, Reprimand, or Disciplinary Probation—especially if no one was harmed and you show accountability. A Warning may be removed from your record after a specified period upon request, but Probation or a Reprimand would remain on your permanent record during the sanction period. Educational assignments are also common to help you understand community expectations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m in my final year and want to make sure I meet all graduation requirements, but I was recently found responsible for academic misconduct in a lab report. Could this affect my degree or graduation status?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it could—depending on the sanction imposed. If the misconduct is deemed serious, sanctions like Disciplinary Probation, Deferred Suspension, or even Revocation of Degree (if the violation occurred before your degree was officially awarded) could apply. Since you’re in your final year, the University may place you on probation or require educational assignments, which wouldn’t necessarily block graduation unless you violate policy again while under sanction. However, if the misconduct involved fraud or misrepresentation related to your academic work, the University reserves the right under Section 10.5 to revoke your degree—even after conferral. It’s important to comply fully with any sanctions and consult the Dean of Students Office about how your specific case affects your graduation eligibility."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Under what circumstances can a student be placed on interim suspension?"
+      },
+      {
+        "role": "assistant",
+        "content": "A student may be placed on interim suspension if the Assistant Vice President/Dean of Students or designee has reasonable cause to believe the student’s presence on University premises or at a University-related or registered student organization activity poses a significant risk of substantial harm to the safety or security of any member of the University community or to property."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What information must be included in the notice of interim suspension?"
+      },
+      {
+        "role": "assistant",
+        "content": "The notice of interim suspension must include: (1) a statement of the regulation(s) the student allegedly violated, (2) a specific statement of the facts constituting the alleged violation, (3) instructions to contact the Dean of Students Office to submit the Disciplinary Process Choice Form within five business days, and (4) a copy of the Student Code of Conduct or its web address."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a student appeal an interim suspension, and what happens during the appeal process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a student may appeal an interim suspension by submitting a written statement of appeal to the Assistant Vice President/Dean of Students. The appeal will be considered on an expedited basis, but the interim suspension remains in effect while the appeal is pending."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student doesn’t submit the Disciplinary Process Choice Form within five business days?"
+      },
+      {
+        "role": "assistant",
+        "content": "If a student fails to submit the Disciplinary Process Choice Form within the five-business-day period, they will be considered to have elected to proceed with a Disciplinary Conference under the Student Disciplinary Procedures."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who can initially issue a notice of interim suspension, and what happens afterward?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Chief of Police or designee may initially issue a notice of interim suspension when there is reasonable cause to believe the student poses an immediate threat. In such cases, the Hearing Officer will subsequently issue a formal notice of interim suspension in accordance with Section 11."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I just got a notice saying I’m under interim suspension. What does that even mean?"
+      },
+      {
+        "role": "assistant",
+        "content": "An interim suspension means you’ve been temporarily removed from all or part of University premises or activities because the Assistant Vice President/Dean of Students (or designee) believes your presence poses a significant risk of harm to people or property. This is not a final decision—it’s a temporary measure while the disciplinary process moves forward."
+      },
+      {
+        "role": "user",
+        "content": "Do I get a chance to respond or appeal this before it goes into effect?"
+      },
+      {
+        "role": "assistant",
+        "content": "The interim suspension takes effect immediately, but you can appeal it by submitting a written statement to the Assistant Vice President/Dean of Students. They’ll review your appeal quickly, though the suspension stays in place during the appeal process. You should also contact the Dean of Students Office within five business days to submit your Disciplinary Process Choice Form."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I missed the five-day deadline to turn in my Disciplinary Process Choice Form after getting an interim suspension notice. What happens now?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you don’t submit the Disciplinary Process Choice Form within five business days, you’re automatically considered to have chosen a Disciplinary Conference as your resolution method under the Student Disciplinary Procedures."
+      },
+      {
+        "role": "user",
+        "content": "Is there any way to still request a different process, like a hearing panel, even though I missed the deadline?"
+      },
+      {
+        "role": "assistant",
+        "content": "You may be able to request an extension if you have good cause for missing the deadline—this would need to be approved by the Hearing Officer. It’s best to contact the Dean of Students Office right away to explain your situation and see if they’ll grant an extension."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester, but I got into an argument during a club meeting last week and campus security was called. Now I’ve received a notice saying I’m on interim suspension. What does this mean and what should I do next?"
+      },
+      {
+        "role": "assistant",
+        "content": "An interim suspension means the university believes your presence poses a significant risk to the safety or security of others or to property, based on the incident you described. According to Section 11 of the Student Handbook, you should have received a written notice that includes the alleged violation(s), the facts involved, and instructions to contact the Dean of Students Office within five business days to submit a Disciplinary Process Choice Form. You also have the right to appeal the interim suspension in writing to the Assistant Vice President/Dean of Students, though the suspension stays in place during the appeal. It’s important to act quickly—reach out to the Dean of Students Office as soon as possible to understand your options and next steps."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do—I missed the deadline to submit the Disciplinary Process Choice Form because I was hospitalized. Will I automatically be suspended?"
+      },
+      {
+        "role": "assistant",
+        "content": "Missing the five-business-day deadline to submit the Disciplinary Process Choice Form typically means you’ll automatically proceed to a Disciplinary Conference (per Section 11.4). However, Section 11.3 allows the Hearing Officer to grant an extension for 'good cause'—and hospitalization likely qualifies. You should contact the Hearing Officer or Dean of Students Office immediately, explain your situation, and request a retroactive extension. Provide documentation if possible. Acting quickly may still allow you to choose your preferred process rather than defaulting to a Disciplinary Conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who has the authority to issue an interim no contact order at University of Houston-Clear Lake?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Assistant Vice President/Dean of Students or their designee has the authority to issue an interim no contact order if it is deemed necessary to protect a person’s safety and/or preserve a safe environment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What does an interim no contact order prohibit?"
+      },
+      {
+        "role": "assistant",
+        "content": "An interim no contact order prohibits a student or registered student organization from contacting a specific individual or individuals."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can the university withhold my diploma if I’m accused of violating the Student Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Assistant Vice President/Dean of Students or designee may withhold your official transcript, grade, diploma, or degree if you are alleged to have violated a University rule or the Prohibited Conduct Section of the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How can I appeal the withholding of my transcript or diploma?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can appeal by submitting a written statement of appeal to the Assistant Vice President/Dean of Students, who will consider it on an expedited basis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Does the withholding of my academic records stay in place while my appeal is being reviewed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the withholding of your transcript, grade, diploma, or degree remains in effect during the pendency of your appeal."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I heard someone got a no contact order against them before even having a hearing. Is that allowed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, that’s permitted under Section 12 of the Student Handbook. The Assistant Vice President/Dean of Students or their designee can issue an interim no contact order immediately if they believe it’s necessary to protect someone’s safety or maintain a safe campus environment—even before a formal hearing takes place."
+      },
+      {
+        "role": "user",
+        "content": "So does that mean I could be restricted from contacting someone without getting a chance to tell my side first?"
+      },
+      {
+        "role": "assistant",
+        "content": "An interim no contact order is a temporary protective measure, not a final determination of responsibility. You’ll still have the opportunity to share your perspective during the formal conduct process. The order remains in place only until a hearing occurs or the matter is otherwise resolved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m supposed to graduate next month, but I was told my diploma is being withheld because of a conduct allegation. Can they do that?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, according to Section 13 of the Student Handbook, the Assistant Vice President/Dean of Students or designee may withhold your diploma if you’re alleged to have violated a University rule or the Student Code of Conduct. This can happen while your case is pending a hearing or appeal."
+      },
+      {
+        "role": "user",
+        "content": "Is there any way to get my diploma released sooner? I need it for a job starting right after graduation."
+      },
+      {
+        "role": "assistant",
+        "content": "You can submit a written appeal to the Assistant Vice President/Dean of Students requesting release of your diploma. They will review your appeal on an expedited basis, though the withholding will stay in effect while your appeal is being considered."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm in my final year and want to make sure I meet all graduation requirements, but I just received notice that I’m under investigation for a conduct violation. Will this affect my ability to get my diploma on time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it could. According to Section 13 of the Student Handbook, the Assistant Vice President/Dean of Students may withhold your diploma if you’re alleged to have violated the Student Code of Conduct—even while the matter is pending. This hold can remain in place through any hearing, disciplinary conference, or appeal process. However, you have the right to submit a written appeal of the withholding to the Dean of Students, who will review it on an expedited basis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do... I also just found out there’s an interim no contact order against me. What does that mean, and how was it issued?"
+      },
+      {
+        "role": "assistant",
+        "content": "An interim no contact order can be issued immediately by the Assistant Vice President/Dean of Students (or their designee) if they believe it’s necessary to protect someone’s safety or maintain a safe campus environment—even before a formal hearing takes place. This order prohibits you from contacting a specific individual or individuals. It’s important to follow this order strictly, as violating it could result in additional disciplinary action. You’ll still have the opportunity to respond to the allegations during the formal conduct process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a student be referred to counseling during a disciplinary process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Hearing Officer may refer any student who is the subject of prohibited conduct allegations to the Counseling and Mental Health Center or Health Services."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student refuses a counseling referral?"
+      },
+      {
+        "role": "assistant",
+        "content": "A student may refuse to attend a session with the Counseling and Mental Health Center or Health Services without penalty, and the disciplinary process will continue as if no referral were made."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can the Counseling Center share information about a student with the Hearing Officer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, but only with the student’s written permission. The Counseling and Mental Health Center or Health Services may then discuss the results of the referral with the Hearing Officer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What should a student do if asked to meet with the Assistant Vice President/Dean of Students?"
+      },
+      {
+        "role": "assistant",
+        "content": "The student must heed the request and respond at the time and place set by the Assistant Vice President/Dean of Students or their designee, unless extraordinary circumstances require alternative arrangements."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the consequences of not responding to a request from the Dean of Students?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure to report or respond as directed constitutes a separate violation of the Code and may result in disciplinary action and/or a hold on the student’s enrollment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I was referred to the Counseling and Mental Health Center by a Hearing Officer. Do I have to go?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, you are not required to attend. According to Section 14 of the Student Handbook, you may refuse to attend a session with the Counseling and Mental Health Center or Health Services without penalty. If you choose not to go, the disciplinary process will continue as if no referral were made."
+      },
+      {
+        "role": "user",
+        "content": "If I do decide to go, will the counselor tell the Hearing Officer what we talked about?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only if you give written permission. The handbook states that the Counseling and Mental Health Center or Health Services may, with your written consent, discuss the results of the referral with the Hearing Officer. Without your permission, they cannot share details of your session."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got an email from the Dean of Students asking me to meet tomorrow, but I have a final exam at the same time. What should I do?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 15 of the Student Handbook, requests from the Assistant Vice President/Dean of Students or their designee must be heeded by all students and take priority over other duties, including exams. However, if you have extraordinary circumstances—like a scheduled final—you should contact the Dean’s office immediately to request a rescheduling."
+      },
+      {
+        "role": "user",
+        "content": "What happens if I just miss the meeting because of my exam?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failing to report or respond as directed by the Dean of Students or their designee constitutes a separate violation of the Student Code and could result in disciplinary action or a hold on your enrollment. It’s important to reach out proactively to explain your conflict and seek alternate arrangements."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do. The letter mentioned I might be referred to counseling—do I have to go, and what happens if I don't?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 14 of the Student Handbook, if you're referred to the Counseling and Mental Health Center or Health Services as part of a disciplinary matter, you’re not required to attend—you can refuse without penalty. However, if you choose not to go, the disciplinary process will continue as though the referral never happened. It’s your choice, but keep in mind that engaging with support services may be viewed positively during the process."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I received an email from the Dean of Students asking me to meet tomorrow about a conduct issue, but I have a final exam at the same time. What should I do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Section 15 of the Student Handbook states that requests from the Assistant Vice President/Dean of Students (or their designee) take priority over all other student obligations, including exams. However, if you have a scheduling conflict due to extraordinary circumstances—like a final exam—you should contact the Dean’s office immediately to explain the situation and request to reschedule. Failure to respond or appear without making such arrangements could result in additional disciplinary action or an enrollment hold."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can the university require me to appear before the University Hearing Board?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Assistant Vice President/Dean of Students or their designee has the authority to require you to appear before the University Hearing Board at a designated time and place if your presence is necessary to resolve a matter before the Board."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What can I be required to bring to a University Hearing Board appearance?"
+      },
+      {
+        "role": "assistant",
+        "content": "You may be required to produce any items that are relevant to the adjudication of the matter before the University Hearing Board, as determined by the Assistant Vice President/Dean of Students or their designee."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "If I withdraw from UHCL while a disciplinary case is pending, am I still subject to the university's disciplinary process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you remain subject to the jurisdiction of the Student Disciplinary Procedures even if you withdraw from the University of Houston-Clear Lake while disciplinary proceedings are pending."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can the university prevent me from re-enrolling if I withdraw during a disciplinary investigation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Dean of Students Office may place a disciplinary hold on your records and future enrollment if you withdraw prior to the resolution of pending disciplinary action."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Will my transcript show anything if I withdraw while disciplinary proceedings are ongoing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Dean of Students Office may place a notation on your official transcript stating, 'Disciplinary proceedings are pending at the University of Houston-Clear Lake.'"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a notice saying I have to appear before the University Hearing Board. What does that mean?"
+      },
+      {
+        "role": "assistant",
+        "content": "That means the Assistant Vice President/Dean of Students or their designee has determined your presence is necessary to resolve a matter currently before the Board. You’ll be required to attend at the specified time and place, and you may also be asked to bring specific items relevant to the case."
+      },
+      {
+        "role": "user",
+        "content": "Can I just skip it if I decide to withdraw from the university instead?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, withdrawing won’t exempt you from the process. If you withdraw while disciplinary proceedings are pending, the Dean of Students Office can place a disciplinary hold on your records and future enrollment. They may also add a notation to your transcript stating that 'Disciplinary proceedings are pending at the University of Houston-Clear Lake.' You remain subject to the Student Disciplinary Procedures even after withdrawal."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if I don’t show up for my University Hearing Board appearance?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you fail to appear as required by the Assistant Vice President/Dean of Students or their designee, the University Hearing Board may proceed with the hearing in your absence. Additionally, a disciplinary hold could be placed on your student record, which may affect your ability to register for classes, receive transcripts, or graduate."
+      },
+      {
+        "role": "user",
+        "content": "Could they still take action against me if I’ve already withdrawn from UHCL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Even if you’ve withdrawn, you’re still under the jurisdiction of the Student Disciplinary Procedures as long as the disciplinary matter was pending at the time of withdrawal. The Dean of Students Office may place a hold on your records and add a notation to your official transcript indicating that disciplinary proceedings are pending."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice and I'm not sure what to do. I’m supposed to appear before the University Hearing Board, but I don’t understand why they can make me show up or bring documents."
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 16 of the Student Handbook, the Assistant Vice President/Dean of Students (or their designee) has the authority to require you to appear before the University Hearing Board if your presence is needed to resolve a matter before them. They can also ask you to bring any relevant items or documents that help with the adjudication. It’s important to comply with this request—failing to appear or provide requested materials could affect your case or lead to additional consequences."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m thinking about withdrawing from UHCL because I’m overwhelmed, but I just received notice that I have pending disciplinary action. What happens if I leave before it’s resolved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Even if you withdraw from the University of Houston-Clear Lake while disciplinary proceedings are pending, you’re still subject to the Student Disciplinary Procedures. The Dean of Students Office may place a disciplinary hold on your records and future enrollment, and they can add a notation to your official transcript stating, 'Disciplinary proceedings are pending at the University of Houston-Clear Lake.' This could impact your ability to transfer credits or enroll elsewhere until the matter is resolved."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can I appeal my conduct case just because I disagree with the outcome?"
+      },
+      {
+        "role": "assistant",
+        "content": "No. According to Section 18.1 of the Student Handbook, an appeal is not an opportunity to re-hear the original conduct case and will not be granted solely based on a respondent’s disagreement with the outcome."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the valid grounds for filing an appeal in a student conduct case?"
+      },
+      {
+        "role": "assistant",
+        "content": "Valid grounds for appeal, as outlined in Section 18.2, are: (a) new information not available at the time of the original hearing that could affect the decision; (b) the weight of the evidence does not support or contradicts the finding of violation; (c) a procedural error that caused material harm or prejudice to the student; or (d) the sanction imposed was excessively severe relative to the violation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who reviews and decides on student conduct appeals?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Assistant Vice President/Dean of Students or their designee serves as the Appellate Officer for all conduct cases and is responsible for reviewing and deciding appeals, as stated in Section 18.3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How long do I have to file an appeal after receiving my conduct decision?"
+      },
+      {
+        "role": "assistant",
+        "content": "You must file a written appeal with the Appellate Officer within ten business days after receiving written notification of the decision, according to Section 18.4."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What possible outcomes can result from an appeal of a conduct decision?"
+      },
+      {
+        "role": "assistant",
+        "content": "As stated in Section 18.4, the Appellate Officer may: (1) amend the finding(s) and/or sanction(s); (2) remand the case for further proceedings; or (3) uphold the original decision and sanction(s). The Appellate Officer’s decision is final."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I was found responsible for academic dishonesty and got a failing grade in the course. I don’t agree with the decision—can I appeal just because I think the outcome was unfair?"
+      },
+      {
+        "role": "assistant",
+        "content": "An appeal isn’t meant to re-hear your case or reconsider the outcome simply because you disagree with it. According to Section 18.1 of the Student Handbook, appeals must be based on specific grounds outlined in Section 18.2."
+      },
+      {
+        "role": "user",
+        "content": "What are those acceptable grounds? Could I appeal if I found an email that proves I didn’t cheat, but I didn’t have it during the original hearing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, that could qualify. Section 18.2(a) allows appeals based on new information that wasn’t available at the time of the original hearing and that could affect the decision. You’d need to include that email and explain why it wasn’t available earlier when you submit your written appeal to the Appellate Officer within ten business days."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I appealed my conduct sanction because I think the one-semester suspension is way too harsh for what I did. Will the appeal process reconsider whether I actually violated the policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "No—it won’t. According to Section 18.2(d), if your appeal is based solely on the claim that the sanction is excessively severe, it only relates to the sanction itself, not the finding that you were 'in violation.' The original finding of responsibility stands unless another valid ground for appeal (like new evidence or procedural error) is also presented."
+      },
+      {
+        "role": "user",
+        "content": "Got it. So if I only argue about the punishment being too harsh, they won’t revisit whether I actually did it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Correct. The Appellate Officer will only review the appropriateness of the sanction in relation to the violation you were found responsible for. If you want the finding itself reconsidered, you’d need to base your appeal on other grounds, such as new evidence (18.2a), insufficient evidence (18.2b), or a significant procedural error that caused you harm (18.2c)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester, but I received a disciplinary notice for an incident that happened during orientation. I admitted to the behavior at the hearing, but now I think the suspension they gave me is way too harsh for a first-time mistake. Can I appeal just because I think the punishment doesn’t fit what I did?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you can appeal—but only on specific grounds outlined in the student handbook. Since you admitted to the behavior, you can’t appeal the finding that you violated the policy. However, under Section 18.2(d), you may appeal if you believe the sanction (like your suspension) is excessively severe in relation to the violation. Your appeal must clearly explain why the punishment is disproportionate, and you must file it in writing with the Appellate Officer within ten business days of receiving your decision letter."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got a disciplinary notice last week saying I was found responsible for academic dishonesty, but during the hearing, they didn’t consider a key email from my professor that shows I asked for clarification on the assignment before submitting it. I only found the email after the hearing. Can I use this as a reason to appeal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, this could be valid grounds for an appeal. According to Section 18.2(a), you may appeal if you have new information that was not available at the time of the original hearing and that could affect the outcome. Since you’ve discovered an email that wasn’t presented during the hearing—and it’s relevant to whether you acted dishonestly—you should include it in a written appeal. Be sure to explain why the email wasn’t available earlier and how it might change the finding. Submit your appeal to the Appellate Officer within ten business days of receiving your decision."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "For which types of sanctions does the University keep a permanent disciplinary record?"
+      },
+      {
+        "role": "assistant",
+        "content": "The University maintains a permanent written disciplinary record for students who receive a sanction of suspension, expulsion, denial or revocation of a degree, and/or withdrawal of diploma."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who has access to a student's disciplinary records?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disciplinary records are confidential and accessible only to the Dean of Students or University officials with legitimate educational interests, unless the student provides written authorization or disclosure is required by state or federal law, court order, or subpoena."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How long are disciplinary records kept if the student did not receive a major sanction like suspension or expulsion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disciplinary records for students who did not receive a sanction of suspension, expulsion, denial or revocation of a degree, or withdrawal of diploma are maintained for seven years after the final disposition of the case, in accordance with the University’s Records Retention Schedule and Clery Act regulations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a student request to have a disciplinary warning removed from their record?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, students who received a warning sanction may request that the record be removed once the warning period has expired or after they have graduated from the University."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which office is responsible for maintaining student disciplinary records?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Dean of Students Office is responsible for maintaining all student disciplinary records."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I received a disciplinary warning last semester. How long will that stay on my record?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disciplinary warning records are maintained as active conduct records for the specified period of your warning. Once that period ends—or once you graduate—you can request to have the record removed."
+      },
+      {
+        "role": "user",
+        "content": "So if I graduate next year, can I ask to have it removed right after graduation even if the warning period hasn’t technically ended?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. According to Section 19.4 of the Student Handbook, you may request removal of the warning record either after the warning period expires or upon graduation—whichever comes first."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "If I was suspended last year, will that stay on my record forever?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Per Section 19.1 of the Student Handbook, the University maintains a permanent written disciplinary record for any student who received a sanction of suspension, expulsion, denial or revocation of a degree, or withdrawal of diploma."
+      },
+      {
+        "role": "user",
+        "content": "Who has access to that permanent record? Can future employers see it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disciplinary records are treated as confidential student records. They’re only accessible to the Dean of Students or University officials with legitimate educational interests, unless you provide written authorization, or disclosure is required by state/federal law or a court order or subpoena."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm a freshman and just started this semester. Last week, I received a disciplinary warning for a minor policy violation. I’m worried this will stay on my record forever—will it affect my chances for study abroad or internships?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since you received a disciplinary warning—and not a more serious sanction like suspension or expulsion—the record will be maintained only for the duration of your warning period. According to Section 19.4 of the Student Handbook, once that period ends or after you graduate, you can request to have the warning removed from your record. As long as the warning is active, it may be accessible to university officials with legitimate educational interests, but it won’t automatically disqualify you from study abroad or internships. You’re encouraged to speak with the Dean of Students Office about your specific situation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m in my final year and want to make sure I meet all graduation requirements. A few years ago, I was suspended for one semester due to a conduct violation. Will this disciplinary record prevent me from graduating or showing up on my transcript?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because your sanction included suspension, the University maintains a permanent disciplinary record under Section 19.1. However, this record is kept separately from your academic transcript and is confidential—accessible only to the Dean of Students, authorized university officials with legitimate educational interests, or as required by law. As long as you’ve completed all academic requirements and any conditions tied to your reinstatement after suspension, this disciplinary record should not prevent you from graduating. If you have concerns, contact the Dean of Students Office to confirm your standing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can a student organization be held responsible for misconduct even if only some members were involved?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Student groups and registered student organizations, along with their members, may be held collectively and/or individually responsible for violations that occur on University grounds, on premises used or controlled by the group or organization, or at University-sponsored activities on or off campus."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Who handles conduct cases for student organizations versus individual students?"
+      },
+      {
+        "role": "assistant",
+        "content": "Conduct matters for student groups and registered student organizations are adjudicated by the University Hearing Board, whereas disciplinary conferences with a hearing officer are reserved exclusively for individual students."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Under what circumstances can an organization’s leaders be held accountable for misconduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Organization leaders, officers, or spokespersons may be held collectively and/or individually responsible if they gave tacit or overt consent or encouragement for prohibited conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What happens if a student organization’s leaders ignore directives from the Dean of Students to address misconduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Failure by leaders, officers, or spokespersons to make reasonable efforts to comply with directives from the Assistant Vice President/Dean of Students or designee is considered a violation of the Code by both the individuals and the organization."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What kinds of sanctions can a student organization face for violating the Code of Conduct?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sanctions may include revocation or denial of registration, as well as other appropriate sanctions listed in Sections 10, 11, and 12 of the Student Code of Conduct."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "If my student organization hosts an event off-campus that’s sponsored by the university, can we still be held responsible for code violations that happen there?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, according to Section 20.2 of the Student Handbook, student groups and registered student organizations may be held collectively and/or individually responsible for violations that occur at University-sponsored activities, whether on or off campus."
+      },
+      {
+        "role": "user",
+        "content": "What if only a few members were involved in the misconduct—can the whole organization still be punished?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes. Under Section 20.3, your organization and its officers may be held collectively and/or individually responsible if leaders, officers, or spokespersons gave tacit or overt consent or encouragement for the prohibited conduct—even if not all members participated."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Our club received a directive from the Dean of Students to stop a certain activity because it might violate the Code. What happens if we don’t comply?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Section 20.4, failure to make reasonable efforts to comply with directives from the Assistant Vice President/Dean of Students or their designee is itself considered a violation of the Code—by both the organization and its leaders, officers, or spokespersons."
+      },
+      {
+        "role": "user",
+        "content": "If we are found responsible, what kinds of sanctions could our organization face?"
+      },
+      {
+        "role": "assistant",
+        "content": "Per Section 20.5, possible sanctions include revocation or denial of your organization’s registration, as well as other appropriate sanctions listed in Sections 10, 11, and 12 of the Code—such as educational requirements, fines, suspension of privileges, or organizational probation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm the president of a registered student organization, and during our recent off-campus event, some members got into a physical altercation. No one was seriously hurt, but campus security was called. Could our entire organization be held responsible for this?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, your organization could be held collectively responsible. According to Section 20.2 of the Student Handbook, student organizations may be held accountable for violations that occur at University-sponsored activities—even off campus—or on premises controlled by the group. Additionally, under Section 20.3, if leaders (including you as president) gave tacit or overt approval of risky behavior, that could further implicate the organization. The matter would be reviewed by the University Hearing Board, not through an individual disciplinary conference."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I’m a freshman and just joined a student group last month. Last week, the group hosted a party where underage drinking occurred, and now the Dean’s office says they’re investigating the organization. I didn’t drink or encourage it—can I still get in trouble personally?"
+      },
+      {
+        "role": "assistant",
+        "content": "While the organization as a whole can be held responsible for the incident under Sections 20.2 and 20.3, individual responsibility depends on your specific actions. If you didn’t participate in or encourage the prohibited conduct, you’re less likely to face personal sanctions. However, the handbook notes that individuals may still be held accountable if they were present and failed to act when directed by university officials. Since you’re new and weren’t involved, cooperating fully with the investigation is your best course of action."
+      }
+    ]
+  }
+]
