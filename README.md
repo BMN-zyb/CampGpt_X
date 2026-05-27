@@ -11,9 +11,12 @@ tags:
 pipeline_tag: text-generation
 ---
 
+# huggingface：https://huggingface.co/bmnzyb/CampGPT_X
+
 # CampGPT-Student-Handbook
 
 A compact GPT model trained for university student handbook Q&A.
+
 
 ## Model Details
 
