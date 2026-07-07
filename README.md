@@ -1,4 +1,6 @@
+<div align="center">
 # 请给我免费的star⭐吧，十分感谢！
+</div>
 
 ---
 license: apache-2.0
@@ -12,6 +14,7 @@ tags:
   - custom-architecture
 pipeline_tag: text-generation
 ---
+
 
 # CampGPT-X · 大学学生手册问答小型 GPT
 
