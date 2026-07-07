@@ -255,7 +255,15 @@ Based on the student handbook...
 - DPO: https://arxiv.org/abs/2305.18290
 - FineWeb-Edu: https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu
 
+## Star History
 
+<a href="https://www.star-history.com/?repos=BMN-zyb%2FCampGpt_X&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BMN-zyb/CampGpt_X&type=date&theme=dark&legend=top-left&sealed_token=krbd6WMPXEn1Hl1XASA2_6kNG4n2ZXUaFxqKfK8XD1YVngvuFoW1SAYpZ2_DyTf9AoYx_c5gftENE5pVbnp7XPmlzym7YNAYXZgQpbZM6IiuaELc3-C_gg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BMN-zyb/CampGpt_X&type=date&legend=top-left&sealed_token=krbd6WMPXEn1Hl1XASA2_6kNG4n2ZXUaFxqKfK8XD1YVngvuFoW1SAYpZ2_DyTf9AoYx_c5gftENE5pVbnp7XPmlzym7YNAYXZgQpbZM6IiuaELc3-C_gg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BMN-zyb/CampGpt_X&type=date&legend=top-left&sealed_token=krbd6WMPXEn1Hl1XASA2_6kNG4n2ZXUaFxqKfK8XD1YVngvuFoW1SAYpZ2_DyTf9AoYx_c5gftENE5pVbnp7XPmlzym7YNAYXZgQpbZM6IiuaELc3-C_gg" />
+ </picture>
+</a>
 
 # 代码部分由AI生成。
 
