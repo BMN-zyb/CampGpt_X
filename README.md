@@ -1,3 +1,5 @@
+# 请给我免费的star⭐吧，十分感谢！
+
 ---
 license: apache-2.0
 language:
@@ -246,3 +248,15 @@ Based on the student handbook...
 - DeepSeekMoE: https://arxiv.org/abs/2401.06066
 - DPO: https://arxiv.org/abs/2305.18290
 - FineWeb-Edu: https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu
+
+
+
+# 代码部分由AI生成。
+
+
+## 欢迎贡献代码，提出问题和建议。如果你发现了bug或者有新的功能想法，请提交一个Issue让我知道。你也可以通过Fork项目并提交Pull Request来贡献代码。 如果你喜欢这个项目，欢迎给它一个星星⭐，这是对我最大的支持！
+
+
+# 如果你觉得我的开源项目对你有帮助，可以赞助我一杯咖啡嘛，十分感谢！！！
+
+
